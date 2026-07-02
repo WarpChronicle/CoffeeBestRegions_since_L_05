@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Schoolbell&display=swap');
+
 body {
     margin: 0;
+}
+.header {
+    background-image: url("../images/coffee-bgnd.jpeg");
+    background-position: center;
+    background-size: cover;
+    height: 450px;
+}
+.header h1 {
+    font-family: "Schoolbell", cursive;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding-top: 10px;
+    text-align: center;
+    color: #6fa57d;
+    font-size: 50pt;
 }
